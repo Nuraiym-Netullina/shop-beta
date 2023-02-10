@@ -9,7 +9,7 @@ const ProductItem = () => {
           src="https://static.zara.net/photos///2023/V/0/2/p/0962/410/401/2/w/574/0962410401_2_1_1.jpg?ts=1673542212416"
           alt="Product Item"
         />
-        <button className="absolute left-2/4 bottom-4 h-6 w-6 -translate-x-1/2 rounded-full bg-neutral-50 text-gray-800">
+        <button className="absolute left-2/4 bottom-4 flex h-6 w-6 -translate-x-1/2 items-center justify-center rounded-full bg-neutral-50 text-gray-800">
           <i className="fa-regular fa-plus text-xs font-light text-gray-600"></i>
         </button>
       </div>
